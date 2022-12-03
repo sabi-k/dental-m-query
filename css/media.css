@@ -1,0 +1,54 @@
+@media(max-width:575px){
+    .logo-part{
+        display: none;
+    }
+    .main-logo{
+        display: inline-block;
+        width: 160px;
+        margin-right: 150px;
+    }
+    
+    .butt-sect{
+        display: none;
+    }
+    .main-logo img{
+        width: 200px;
+    }
+    .carousel_img{
+        display: none;
+    }
+    .carousel_img2{
+        display: none;
+    }
+    .position{
+        text-align: center;
+      
+    }
+    .navbar-toggler{
+        margin-left: 100px;
+
+    }
+    .carousel_total h1{
+        width: 400px;
+        margin-left: 15px;
+    }
+    .carousel_total h4{
+        margin-left: 90px;
+    }
+    .ageency-img{
+       position: inherit;
+       width: 60%;
+       margin: auto;
+       margin-bottom: 30px;
+    }
+    .head-row h4{
+        text-align: center;
+
+    }
+    .head-row p{
+        text-align: center;
+    }
+    .plan-sect{
+        margin-bottom: 30px;
+    }
+}
